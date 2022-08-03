@@ -1,8 +1,9 @@
+<div align="center">
+  
 ## It's CUTIEPAZZIPOZZI time (´∀`)b 
 
-<div align="center">
-
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
+  
 (from: https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=furriky&logNo=220664635614)
 
 <br>
