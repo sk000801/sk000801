@@ -19,6 +19,7 @@
 <em>(※Neighbor ReadOnly)</em>
 
 ⚡ I'm interested in 
+<img src="./image/음악.png" width="30" height="30" />
 
 <br>
 
