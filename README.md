@@ -1,5 +1,7 @@
 ## It's CUTIEPAZZIPOZZI time (´∀`)b 
 
+<div align="center">
+
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
 (from: https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=furriky&logNo=220664635614)
 
@@ -30,3 +32,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutiepazzipozzi&theme=vue&show_icons=true)
 
+</div>
