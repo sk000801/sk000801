@@ -35,11 +35,6 @@
 
 <h3>It's my REPORT ! ! </h3>
 
-<div style="display:flex;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutiepazzipozzi)](https://github.com/Cutiepazzipozzi/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutiepazzipozzi)](https://github.com/Cutiepazzipozzi/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutiepazzipozzi&theme=vue&show_icons=true)
-
-</div>
 </div>
