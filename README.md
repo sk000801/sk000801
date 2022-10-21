@@ -5,7 +5,7 @@
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
 
 <br>
-:sparkles: 누군가의 사소한 행복에 일조하는 개발자가 되고픈 사람입니다!
+:sparkles: 훗날 누군가의 사소한 행복에 일조하는 개발자가 되고싶습니다!
 
 <br>
 <br>
