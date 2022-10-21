@@ -3,16 +3,16 @@
 ## It's CUTIEPAZZIPOZZI time (´∀`)b
 
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
+
 <br>
 :sparkles: 누군가의 사소한 행복에 일조하는 개발자가 되고픈 사람입니다!
-<br>
-:running: 현재 'CUTIEPIE' 쇼핑몰 프로젝트를 진행중에 있습니다!
 
 <br>
 <br>
-<br>
 
-🔭 I’m currently working on
+:running: 현재 'CUTIEPIE' 쇼핑몰 프로젝트를 진행중에 있습니다 !
+
+🔭 I’m studying
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -37,8 +37,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutiepazzipozzi)](https://github.com/Cutiepazzipozzi/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutiepazzipozzi&theme=vue&show_icons=true)
-<<<<<<< Updated upstream
-
-# </div>
-
-> > > > > > > Stashed changes
