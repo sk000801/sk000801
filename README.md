@@ -3,7 +3,7 @@
 ## It's CUTIEPAZZIPOZZI time (´∀`)b
 
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
-
+<br>
 :sparkles: 누군가의 사소한 행복에 일조하는 개발자가 되고픈 사람입니다!
 <br>
 :running: 현재 'CUTIEPIE' 쇼핑몰 프로젝트를 진행중에 있습니다!
