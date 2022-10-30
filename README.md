@@ -4,7 +4,7 @@
 
 <br>
 
-### :sparkles: 훗날 누군가의 사소한 행복에 일조하고픈 HAPPPY한 개발자 CUTIEPAZZIPOZZI 입니다!
+### :sparkles: 누군가의 소확행에 일조하고픈 HAPPPY한 개발자 CUTIEPAZZIPOZZI 입니다!
 
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
 
