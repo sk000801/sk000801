@@ -25,9 +25,10 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
-😄 My Develop Diary is
+😄 My Original Develop Diary is
 [Naver_Blog](https://blog.naver.com/sugamypapa)
   <br>
+😘 My New Develop Diary is
 [New_Velog](https://velog.io/@ddungdding)
 
 ⚡ I'm interested in
