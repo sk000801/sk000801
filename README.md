@@ -27,6 +27,7 @@
 
 😄 My Develop Diary is
 [Naver_Blog](https://blog.naver.com/sugamypapa)
+  <
 [New_Velog](https://velog.io/@ddungdding)
 
 ⚡ I'm interested in
