@@ -4,14 +4,12 @@
 
 <br>
 
-### :sparkles: 누군가의 소확행에 일조하고픈 HAPPPY한 개발자 CUTIEPAZZIPOZZI 입니다!
+### :sparkles: Good to see you! I'm growing steaDEVELOPER CUTIEPAZZIPOZZI! 
 
 <img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
 
 <br>
 <br>
-
-:running: 현재 'CUTIEPIE' 쇼핑몰 프로젝트를 진행중에 있습니다 !
 
 🔭 I’m studying
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
